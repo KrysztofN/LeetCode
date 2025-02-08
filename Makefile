@@ -5,3 +5,6 @@ leet:
 
 %:
 	@:
+
+smile:
+	@echo "What a beautiful smile you have hihi"
